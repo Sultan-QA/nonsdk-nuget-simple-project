@@ -3,8 +3,7 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": [],
-    "exploitability": true
+    "baseBranches": []
   },
   "scanSettingsSAST": {
     "enableScan": false,
